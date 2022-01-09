@@ -12,7 +12,7 @@ Although there was the luck of survival as the womens, childrens and upper class
    In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
  
  ## Implementation
-   -
+   
    -  Importing the libraries.
    - Importing the datasets.
    - Cleaning and analyzing the dataset.
