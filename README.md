@@ -50,15 +50,15 @@ Although there was the luck of survival as the womens, childrens and upper class
     - alone: 1= alone, 0= not alone ( you have at least 1 sibling, spouse, parent or child on board)
     
     
-  Age:
+  - Age:
       Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
       
-  sibsp:
+  - sibsp:
       The dataset defines family relations in this way:
       Sibling= brother, sister, stepbrother, stepsister
       Spouse= husband, wife (mistresses and fiancés were ignored)
       
-  parch:
+  - parch:
       The dataset defines family relations in this way:
       Parent= mother, father
       Child= daughter, son, stepdaughter, stepson
