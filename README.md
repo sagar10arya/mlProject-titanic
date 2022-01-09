@@ -1,4 +1,4 @@
-### Titanic Surviaval Prediction Using Machine Learning 
+# **Titanic Surviaval Prediction Using Machine Learning**
 
 
 ## Project Description:
